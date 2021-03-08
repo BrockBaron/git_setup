@@ -1,1 +1,1 @@
-move: fireball
+move: Flamethrower
